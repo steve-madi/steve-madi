@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Steve-madi
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on application like whatsapp
+- 💞️ I’m looking to collaborate on application like Github
 - 📫 How to reach me ... stevenmadi16@gmail.com / (+265) 981145019
-Certification
-- Certificate in Cyber security (Network security and response management)
+- Certification
+- Certificate in Cyber security (Network security)
 - Certificate in web development
 - Certificate in Software development (Python and C++)
 - Certificate in mobile app development (React native, kotlin)
@@ -13,6 +13,8 @@ Certification
 - Certificate in ethical hacking
 - Certificate in awareness and response management
 - Certificate in computer systems (Operating systems)
+- Certificate in artificial intelligence (Model training) {PENDING}
+- Certificate in Cloud computing (Microsoft Azure)
   
 
 <!---
